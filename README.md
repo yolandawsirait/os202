@@ -1,6 +1,6 @@
 ## Welcome!
 
-[Web](https://github.com/yolandawsirait/os202/edit/master/README.md)
+[Web](https://yolandawsirait.github.io/os202/)
 [Github] (https://github.com/yolandawsirait/os202)
 
 My name is Yolanda WS  
