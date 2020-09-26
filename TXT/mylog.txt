@@ -2,3 +2,4 @@
 # ZCZC WEEK# MINUTES LogCode Description
 
 ZCZC WEEK1 10 L00 General Log and Github Related
+ZCZC WEEK2 120 L01 Intsalling debian and Putty and tunneling
