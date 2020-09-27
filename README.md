@@ -9,6 +9,5 @@ This is [My Log](TXT/mylog.txt)
 <hr>
 ## Operating Systems Weekly Top Ten List
 * [Week 00](W00/)
-* [Week 01](W01/)
 
 
