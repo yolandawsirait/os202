@@ -2,6 +2,11 @@
 
 [Web](https://yolandawsirait.github.io/os202/)
 [Github](https://github.com/yolandawsirait/os202)
+[My Public Key](TXT/mypubkey.txt)
+[My Script](TXT/mysript.sh)
+[My Rank](TXT/myrank.txt)
+[SHA256SUM](TXT/SHA256SUM.txt)
+[SHA256SUM.asc](TXT/SHA256SUM.asc)
 
 My name is Yolanda WS  
 This is [My Log](TXT/mylog.txt)  
