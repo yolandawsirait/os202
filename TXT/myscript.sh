@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh"
+FILES="my*.txt myscript.sh"
 SHA="SHA256SUM"
 
 rm -f $SHA $SHA.asc
