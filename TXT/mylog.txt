@@ -9,3 +9,6 @@ ZCZC WEEK3 120 L04 Reading OSC10 and writing W02
 ZCZC WEEK3 60 L05 generating key pair, importing public key, exporting my public key
 ZCZC WEEK3 10 L06 ranking neighbors
 ZCZC WEEK3 10 L07 running script and generating SHA256
+ZCZC WEEK4 120 L08 Reading OSC10 chapter 13,14,15 and writing W03
+ZCZC WEEK4 100 L09 Finishing Checklist 3 (bashaliases, TLPI code, disk usage)
+ZCZC WEEK4 20 L10 Updating my rank and log
