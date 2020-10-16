@@ -8,3 +8,7 @@ ZCZC W02 raihanarmon
 ZCZC W02 saddamonpc
 ZCZC W02 setoaprasetyo
 ZCZC W02 rioafirando
+ZCZC W03 vianra
+ZCZC W03 saddamonpc
+ZCZC W03 stevenciayadi
+ZCZC W03 wienaamanda
