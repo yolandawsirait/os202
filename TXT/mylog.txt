@@ -13,3 +13,4 @@ ZCZC WEEK4 120 L08 Reading OSC10 chapter 13,14,15 and writing W03
 ZCZC WEEK4 100 L09 Finishing Checklist 3 (bashaliases, TLPI code, disk usage)
 ZCZC WEEK4 20 L10 Updating my rank and log
 ZCZC WEEK5 60 L11 Doing W04 assignments (decrypting asc file, putting the content into W04.txt, making W04 token)  
+ZCZC WEEK5 120 l12 reading OSC Ch.9 and writing top 10 list
