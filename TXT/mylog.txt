@@ -1,16 +1,19 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 
-ZCZC WEEK1 10 L00 General Log and Github Related
-ZCZC WEEK2 120 L01 Intsalling debian and Putty and tunneling
-ZCZC WEEK2 60 L02 Writing W00
-ZCZC WEEK2 60 L03 Writing W01
-ZCZC WEEK3 120 L04 Reading OSC10 and writing W02
-ZCZC WEEK3 60 L05 generating key pair, importing public key, exporting my public key
-ZCZC WEEK3 10 L06 ranking neighbors
-ZCZC WEEK3 10 L07 running script and generating SHA256
-ZCZC WEEK4 120 L08 Reading OSC10 chapter 13,14,15 and writing W03
-ZCZC WEEK4 100 L09 Finishing Checklist 3 (bashaliases, TLPI code, disk usage)
-ZCZC WEEK4 20 L10 Updating my rank and log
-ZCZC WEEK5 60 L11 Doing W04 assignments (decrypting asc file, putting the content into W04.txt, making W04 token)  
-ZCZC WEEK5 120 l12 reading OSC Ch.9 and writing top 10 list
+ZCZC WEEK00 10 L00 General Log and Github Related
+ZCZC WEEK01 120 L01 Intsalling debian and Putty and tunneling
+ZCZC WEEK01 60 L02 Writing W00
+ZCZC WEEK01 60 L03 Writing W01
+ZCZC WEEK02 120 L04 Reading OSC10 and writing W02
+ZCZC WEEK02 60 L05 generating key pair, importing public key, exporting my public key
+ZCZC WEEK02 10 L06 ranking neighbors
+ZCZC WEEK02 10 L07 running script and generating SHA256
+ZCZC WEEK03 120 L08 Reading OSC10 chapter 13,14,15 and writing W03
+ZCZC WEEK03 100 L09 Finishing Checklist 3 (bashaliases, TLPI code, disk usage)
+ZCZC WEEK03 20 L10 Updating my rank and log
+ZCZC WEEK04 60 L11 Doing W04 assignments (decrypting asc file, putting the content into W04.txt, making W04 token)  
+ZCZC WEEK04 120 L12 reading OSC Ch.9 and writing top 10 list
+ZCZC WEEK05 30 L08 Doing week 05 general assignment
+ZCZC WEEK05 120 L03 GSGS:Top 10 list Week 5 and reading OSC CH.10
+ZCZC WEEK05 5 L15 Fixing logs
