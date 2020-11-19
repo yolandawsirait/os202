@@ -20,6 +20,8 @@ ZCZC WEEK05 5 L15 Fixing logs
 ZCZC WEEK06 120 L03 GSGS:Top 10 list Week06 and reasing OSC Ch. 3 and 4
 ZCZC WEEK06 60 L14 Doing week 06 assignment on VM
 ZCZC WEEK06 30 L16 Reading slide for Week 6 
-
+ZCZC WEEK07 120 L04 Reading OSC10 Ch.06,07,08
+ZCZC WEEK07 60 L03 GSGS: Writing W07
+ZCZC WEEK07 60 Doing Week07 assignment 
 
 
