@@ -21,5 +21,8 @@ ZCZC W05 siepenmaru
 ZCZC W05 vianra
 ZCZC W06 wienaamanda
 ZCZC W06 taufikalgi
+ZCZC W07 siepenmaru
+ZCZC W07 setoaprasetyo
+ZCZC W07 rioafirando
 ZCZC W06 raihanarmon
 ZCZC W06 
